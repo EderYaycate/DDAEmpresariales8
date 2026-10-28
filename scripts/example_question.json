@@ -1,0 +1,8 @@
+{
+  "exam": 1,
+  "text": "¿Qué método ordena una lista?",
+  "options": [
+    {"text": "sort()", "is_correct": true},
+    {"text": "order()", "is_correct": false}
+  ]
+}
